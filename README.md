@@ -22,3 +22,5 @@ GabrielAguiarProductionsのチュートリアルを通していろいろなShade
 だからこうやって日本の皆さのコミュニティに返したい気持でこのポストをつくりました。
 このVFXが気にっていたら人がいたら大幸せです！
 見ってくれてありがとう！これからのVFX開発わワクワクです！
+
+![Screenshot](FlamingTwister.png)
