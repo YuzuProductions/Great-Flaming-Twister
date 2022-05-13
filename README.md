@@ -26,4 +26,4 @@ GabrielAguiarProductionsのチュートリアルを通していろいろなShade
 このVFXが気にっていたら人がいたら大幸せです！
 見ってくれてありがとう！これからのVFX開発わワクワクです！
 
-![Screenshot](FireTwister.gif)
+![Great-Flaming-Twister](FireTwister.gif)
